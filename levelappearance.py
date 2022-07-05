@@ -13,6 +13,7 @@ if __name__ == '__main__':
         comm.sort.SORT(),
         # comm.exchangefaces.ExchangeFace(),
         comm.facerecognition.FaceRecognition(),
+        comm.drawbbox.DrawBbox(),
         comm.show.Show()
     ]
     while True:
