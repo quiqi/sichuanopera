@@ -10,3 +10,5 @@ import comm.makeup
 import comm.exchangefaces
 import comm.sketcheffect
 import comm.canvaseffect
+import comm.facecollect
+import comm.facerecognition

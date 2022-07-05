@@ -10,8 +10,9 @@ if __name__ == '__main__':
         comm.getcamera.GetCamera(),     # 读取摄像头
         comm.flip.Flip(),
         comm.detectionfaces.DetectionFace(),
-        comm.exchangefaces.ExchangeFace(),
-        # comm.drawbbox.DrawBbox(),
+        comm.sort.SORT(),
+        # comm.exchangefaces.ExchangeFace(),
+        comm.facerecognition.FaceRecognition(),
         comm.show.Show()
     ]
     while True:
