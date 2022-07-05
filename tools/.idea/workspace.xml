@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2952c10c-dec7-4c2e-bdf2-e9eab02c9e0e" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comm/makeup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comm/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comm/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comm/drawbbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comm/drawbbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comm/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comm/sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BTGh0De625hKbLODQkbTiS7Zhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/project/夏令营/SichuanOpera/tools"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2952c10c-dec7-4c2e-bdf2-e9eab02c9e0e" name="变更" comment="" />
+      <created>1656922776571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656922776571</updated>
+      <workItem from="1656922778171" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

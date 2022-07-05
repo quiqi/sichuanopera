@@ -6,3 +6,7 @@ import comm.getcamera
 import comm.model
 import comm.show
 import comm.sort
+import comm.makeup
+import comm.exchangefaces
+import comm.sketcheffect
+import comm.canvaseffect

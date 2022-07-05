@@ -20,5 +20,6 @@ class SORT(Model):
             bboxs = self.sort.update()
         else:
             bboxs = self.sort.update(bboxs)
+
         frame['bboxs'] = bboxs
         return frame
